@@ -1,0 +1,55 @@
+*{
+	font-family: 'Thasadith', sans-serif;
+}
+
+body{
+	background-color: #868686;
+	color: white;
+}
+
+li{
+	list-style-type: none;
+}
+
+img{
+	width: 150px;
+	height: 150px;
+}
+
+h1, h2, button, #country-name{
+	margin-left: 45px;
+}
+
+#search{
+	width: 154px;
+	height: 56px;
+	background-color: black;
+	color: white;
+	font-size: 20px;
+	border: none;
+
+}
+
+#country-name{
+	width: 150px;
+	height: 50px;
+	margin-top: 20px;
+}
+
+.info{
+	color: white;
+	background-color: blue;
+	width: 200px;
+}
+
+.text{
+	background-color: #FFAF1F;
+}
+
+.name{
+	color: blue;
+	position: absolute;
+	margin-top: -120px;
+	left: 220px;
+	font-size: 60px;
+}
